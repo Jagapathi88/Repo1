@@ -1,0 +1,42 @@
+[
+	{
+		"opportunityName" : "opptest1",
+		"requiredAccountName" : "Virat-Test2",
+		"amount" : "2349",
+		"descrption" : "For automation testing practice 1",
+		"stage" : "Propose",
+		"forcast" : "Closed",
+		"month" : "June",
+		"day"   : "8"
+	},
+	{
+			"opportunityName" : "opptest2",
+			"requiredAccountName" : "Prabash-Test2",
+			"amount" : "4349",
+			"descrption" : "For automation testing practice 2",
+			"stage" : "Qualify",
+			"forcast" : "Commit",
+			"month" : "April",
+			"day" : "10"
+		},
+		{
+			"opportunityName" : "opptest3",
+			"requiredAccountName" : "Virat-Test2",
+			"amount" : "6143",
+			"descrption" : "For automation testing practice 1",
+			"stage" : "Qualify",
+			"forcast" : "Closed",
+			"month" : "May",
+		   "day" : "20"
+		},
+		{
+				"opportunityName" : "opptest4",
+				"requiredAccountName" : "Prabash-Test2",
+				"amount" : "9876",
+				"descrption" : "For automation testing practice 2",
+				"stage" : "Propose",
+				"forcast" : "Commit",
+				"month" : "November",
+				"day" : "16"
+			}
+]

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-21T17:43:25 IST" name="Suite" finished-at="2025-07-21T17:45:08 IST" duration-ms="102377">
+    <groups>
+    </groups>
+    <test started-at="2025-07-21T17:43:25 IST" name="Test" finished-at="2025-07-21T17:44:06 IST" duration-ms="40731">
+      <class name="pageTest.CreateAccountTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:pageTest.CreateAccountTest@15de0b3c]" started-at="2025-07-21T17:43:25 IST" name="beforeTest" finished-at="2025-07-21T17:43:26 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext,org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:pageTest.CreateAccountTest@15de0b3c]" started-at="2025-07-21T17:43:26 IST" name="beforeMethod" finished-at="2025-07-21T17:43:29 IST" duration-ms="2954" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@55c50f52]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=CreateAccountTest.loginTest(java.util.HashMap)[pri:0, instance:pageTest.CreateAccountTest@15de0b3c] output={null}]]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void pageTest.CreateAccountTest.loginTest(java.util.HashMap) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginTest(java.util.HashMap)[pri:0, instance:pageTest.CreateAccountTest@15de0b3c]" started-at="2025-07-21T17:43:29 IST" name="loginTest" data-provider="dataProviderForAccount" finished-at="2025-07-21T17:43:46 IST" duration-ms="17322" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Description=This is for Automation Testing, Shipping City=Test, ShippingZipCode=118811, Billing Country=India, Type=Customer, Billing Street=Rahamath Nagar, BillingZipCode=119911, Billing City=Hyderabad, Phone=1011228899, Shipping Street=Assam, WebSite=test.com, ShippingCountry=India, ShippingState=Assam, BillingState=Telangana, AccountName=Virat-Test2}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pageTest.CreateAccountTest@15de0b3c]" started-at="2025-07-21T17:43:47 IST" name="afterMethod" finished-at="2025-07-21T17:43:47 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext,org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:pageTest.CreateAccountTest@15de0b3c]" started-at="2025-07-21T17:43:47 IST" name="beforeMethod" finished-at="2025-07-21T17:43:49 IST" duration-ms="2471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@55c50f52]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=CreateAccountTest.loginTest(java.util.HashMap)[pri:0, instance:pageTest.CreateAccountTest@15de0b3c] output={null}]]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void pageTest.CreateAccountTest.loginTest(java.util.HashMap) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginTest(java.util.HashMap)[pri:0, instance:pageTest.CreateAccountTest@15de0b3c]" started-at="2025-07-21T17:43:49 IST" name="loginTest" data-provider="dataProviderForAccount" finished-at="2025-07-21T17:44:04 IST" duration-ms="14366" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Description=This is for Automation Testing, Shipping City=Test, ShippingZipCode=12890, Billing Country=India, Type=Investor, Billing Street=HitechCity, BillingZipCode=56367, Billing City=Hyderabad, Phone=83567120, Shipping Street=Bihar, WebSite=test.com, ShippingCountry=India, ShippingState=Bihar, BillingState=Telangana, AccountName=Prabash-Test2}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pageTest.CreateAccountTest@15de0b3c]" started-at="2025-07-21T17:44:04 IST" name="afterMethod" finished-at="2025-07-21T17:44:05 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:pageTest.CreateAccountTest@15de0b3c]" started-at="2025-07-21T17:44:05 IST" name="afterTest" finished-at="2025-07-21T17:44:06 IST" duration-ms="1360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- pageTest.CreateAccountTest -->
+    </test> <!-- Test -->
+    <test started-at="2025-07-21T17:44:06 IST" name="Test1" finished-at="2025-07-21T17:45:08 IST" duration-ms="61591">
+      <class name="pageTest.OpportunityCreationTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:06 IST" name="beforeTest" finished-at="2025-07-21T17:44:06 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext,org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:06 IST" name="beforeMethod" finished-at="2025-07-21T17:44:09 IST" duration-ms="2602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1ccc1026]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=OpportunityCreationTest.f(java.util.HashMap)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d] output={null}]]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void pageTest.OpportunityCreationTest.f(java.util.HashMap) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.util.HashMap)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:09 IST" name="f" data-provider="dataProvider" finished-at="2025-07-21T17:44:20 IST" duration-ms="11800" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{amount=2349, forcast=Closed, opportunityName=opptest1, stage=Propose, month=June, descrption=For automation testing practice 1, requiredAccountName=Virat-Test2, day=8}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:21 IST" name="afterMethod" finished-at="2025-07-21T17:44:21 IST" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext,org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:21 IST" name="beforeMethod" finished-at="2025-07-21T17:44:23 IST" duration-ms="2462" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1ccc1026]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=OpportunityCreationTest.f(java.util.HashMap)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d] output={null}]]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void pageTest.OpportunityCreationTest.f(java.util.HashMap) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.util.HashMap)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:23 IST" name="f" data-provider="dataProvider" finished-at="2025-07-21T17:44:36 IST" duration-ms="12466" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{amount=4349, forcast=Commit, opportunityName=opptest2, stage=Qualify, month=April, descrption=For automation testing practice 2, requiredAccountName=Prabash-Test2, day=10}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:36 IST" name="afterMethod" finished-at="2025-07-21T17:44:36 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext,org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:36 IST" name="beforeMethod" finished-at="2025-07-21T17:44:39 IST" duration-ms="2497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1ccc1026]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=OpportunityCreationTest.f(java.util.HashMap)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d] output={null}]]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void pageTest.OpportunityCreationTest.f(java.util.HashMap) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.util.HashMap)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:39 IST" name="f" data-provider="dataProvider" finished-at="2025-07-21T17:44:50 IST" duration-ms="11524" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{amount=6143, forcast=Closed, opportunityName=opptest3, stage=Qualify, month=May, descrption=For automation testing practice 1, requiredAccountName=Virat-Test2, day=20}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:51 IST" name="afterMethod" finished-at="2025-07-21T17:44:51 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext,org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:51 IST" name="beforeMethod" finished-at="2025-07-21T17:44:53 IST" duration-ms="2421" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1ccc1026]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=OpportunityCreationTest.f(java.util.HashMap)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d] output={null}]]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void pageTest.OpportunityCreationTest.f(java.util.HashMap) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.util.HashMap)[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:44:53 IST" name="f" data-provider="dataProvider" finished-at="2025-07-21T17:45:07 IST" duration-ms="13214" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{amount=9876, forcast=Commit, opportunityName=opptest4, stage=Propose, month=November, descrption=For automation testing practice 2, requiredAccountName=Prabash-Test2, day=16}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:45:07 IST" name="afterMethod" finished-at="2025-07-21T17:45:07 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:pageTest.OpportunityCreationTest@c0c2f8d]" started-at="2025-07-21T17:45:07 IST" name="afterTest" finished-at="2025-07-21T17:45:08 IST" duration-ms="571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- pageTest.OpportunityCreationTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

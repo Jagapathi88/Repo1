@@ -1,0 +1,36 @@
+[
+	{
+		"AccountName" : "Virat-Test2",
+		"WebSite"     : "test.com",
+		"Type"        : "Customer",
+		"Description" : "This is for Automation Testing",
+		"Phone"       : "1011228899",
+		"Billing Country": "India",
+		"Billing Street" : "Rahamath Nagar",
+		"Billing City" : "Hyderabad",
+		"BillingZipCode" : "119911",
+		"BillingState": "Telangana",
+		"ShippingCountry": "India",
+		"Shipping Street": "Assam",
+		"Shipping City" : "Test",
+		"ShippingZipCode" : "118811",
+		"ShippingState" : "Assam"
+	},
+	{
+			"AccountName" : "Prabash-Test2",
+			"WebSite"     : "test.com",
+			"Type"        : "Investor",
+			"Description" : "This is for Automation Testing",
+			"Phone"       : "83567120",
+			"Billing Country": "India",
+			"Billing Street" : "HitechCity",
+			"Billing City" : "Hyderabad",
+			"BillingZipCode" : "56367",
+			"BillingState": "Telangana",
+			"ShippingCountry": "India",
+			"Shipping Street": "Bihar",
+			"Shipping City" : "Test",
+			"ShippingZipCode" : "12890",
+			"ShippingState" : "Bihar"
+		}
+]
